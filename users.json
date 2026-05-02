@@ -1,0 +1,18 @@
+{
+    "spark": {
+        "email": "spark@gmail.com",
+        "password": "757d8aeccd2192bd80fae57ea73a64bbe18f16c122507fc6f4db6f72666d980c",
+        "role": "Admin",
+        "created_at": "2026-05-02 16:13:41",
+        "login_attempts": 1,
+        "is_locked": false
+    },
+    "maryam": {
+        "email": "maryam@13gmail.com",
+        "password": "dfb53113552ab2a1133c0f885da46ba22d0eaf94d14bfe25b1ea88562cee9d59",
+        "role": "User",
+        "created_at": "2026-05-02 17:09:46",
+        "login_attempts": 0,
+        "is_locked": false
+    }
+}
