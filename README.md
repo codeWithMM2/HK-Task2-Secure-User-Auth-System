@@ -20,3 +20,4 @@ Type this to run in terminal or CMD:
 
 Bash
 python "Auth system.py"
+" **Demo Video** Secure Auth System: Implemented SHA-256 password hashing and JSON data persistence. A full walkthrough is available in video_20260502_192920_edit.mp4 (View Raw/Download to watch). This project demonstrates secure user authentication and data management logic."
